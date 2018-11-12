@@ -1,0 +1,4 @@
+*.json
+private-key.txt
+
+*.DS_STORE
